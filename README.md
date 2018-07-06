@@ -1,3 +1,3 @@
 ## Landing Page
 
-#### this project is purposed by freeCodeCamp.org.
+#### This project is proposed in the freeCodeCamp.org curriculum.
